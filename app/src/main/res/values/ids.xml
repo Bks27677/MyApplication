@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listmemory" type="id" />
+    <item name="searcheditText" type="id" />
+    <item name="btnsearch" type="id" />
+    <item name="btnexit" type="id" />
+    <item name="btnadd" type="id" />
+    <item name="memtitle" type="id" />
+    <item name="memdetail" type="id" />
+    <item name="memdate" type="id" />
+</resources>
